@@ -7,7 +7,8 @@
  */
 
 /*
- *  English UK Language
+ *  Arabic Language
+ *  Translated by GrandKw
  */
  
 /*
@@ -15,38 +16,38 @@
  */
 $admin_language = array(
 	// General terms
-	'admin_cp' => 'AdminCP',
-	'infractions' => 'Infractions',
-	'invalid_token' => 'Invalid token, please try again.',
-	'invalid_action' => 'Invalid action',
-	'successfully_updated' => 'Successfully updated',
-	'settings' => 'Settings',
-	'confirm_action' => 'Confirm action',
-	'edit' => 'Edit',
-	'actions' => 'Actions',
-	'task_successful' => 'Task run successfully',
+	'admin_cp' => 'لوحة تحكم الإدارة',
+	'infractions' => 'مخالفاتs',
+	'invalid_token' => 'رمز غير صالحة، يرجى المحاولة مرة أخرى.',
+	'invalid_action' => 'عمل غير صالح',
+	'successfully_updated' => 'تحديث بنجاح',
+	'settings' => 'إعدادات',
+	'confirm_action' => 'تأكيد العمل',
+	'edit' => 'تعديل',
+	'actions' => 'الاعمال',
+	'task_successful' => 'تشغيل المهمة بنجاح',
 	
 	// Admin login
-	're-authenticate' => 'Please re-authenticate',
+	're-authenticate' => 'الرجاء إعادة مصادقة',
 	
 	// Admin sidebar
-	'index' => 'Overview',
-	'announcements' => 'Announcements',
+	'index' => 'نظرة عامة',
+	'announcements' => 'إعلانات',
 	'core' => 'Core',
-	'custom_pages' => 'Custom Pages',
-	'general' => 'General',
-	'forums' => 'Forums',
-	'users_and_groups' => 'Users and Groups',
-	'minecraft' => 'Minecraft',
-	'style' => 'Style',
-	'addons' => 'Addons',
-	'update' => 'Update',
-	'misc' => 'Misc',
-	'help' => 'Help',
+	'custom_pages' => 'الصفحات المخصصة',
+	'general' => 'عامه',
+	'forums' => 'المنتديات',
+	'users_and_groups' => 'المستخدمون والمجموعات',
+	'minecraft' => 'ماينكرافت',
+	'style' => 'نمط',
+	'addons' => 'إضافات',
+	'update' => 'تحديث',
+	'misc' => 'متفرقات',
+	'help' => 'مساعدة',
 	
 	// Admin index page
-	'statistics' => 'Statistics',
-	'registrations_per_day' => 'Registrations per day (last 7 days)',
+	'statistics' => 'الإحصاء',
+	'registrations_per_day' => 'التسجيلات في اليوم (آخر 7 أيام)',
 	
 	// Admin announcements page
 	'current_announcements' => 'Current Announcements',
